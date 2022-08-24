@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://joshclark.github.io/zctest.com/sitemap.xml
