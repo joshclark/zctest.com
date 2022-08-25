@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "ZoeTest",
     "description": "",
-    "home_page_url": "https://joshclark.github.io/zctest.com",
-    "feed_url": "https://joshclark.github.io/zctest.com/feed.json",
+    "home_page_url": "https://zoe.goclarks.com",
+    "feed_url": "https://zoe.goclarks.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "Zoe Clark"
     },
     "items": [
         {
-            "id": "https://joshclark.github.io/zctest.com/upcoming-performances.html",
-            "url": "https://joshclark.github.io/zctest.com/upcoming-performances.html",
+            "id": "https://zoe.goclarks.com/upcoming-performances.html",
+            "url": "https://zoe.goclarks.com/upcoming-performances.html",
             "title": "Upcoming Performances",
             "summary": "What's Zoe going to be in next?",
             "content_html": "<p>What's Zoe going to be in next?</p>",
@@ -24,8 +24,8 @@
             "date_modified": "2022-08-24T16:02:43-05:00"
         },
         {
-            "id": "https://joshclark.github.io/zctest.com/contact.html",
-            "url": "https://joshclark.github.io/zctest.com/contact.html",
+            "id": "https://zoe.goclarks.com/contact.html",
+            "url": "https://zoe.goclarks.com/contact.html",
             "title": "Contact",
             "summary": "Contact information for Zoe goes here.",
             "content_html": "<p>Contact information for Zoe goes here.</p>",

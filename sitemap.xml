@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://joshclark.github.io/zctest.com/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://zoe.goclarks.com/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://joshclark.github.io/zctest.com/</loc>
+<loc>https://zoe.goclarks.com/</loc>
 </url>
 <url>
-<loc>https://joshclark.github.io/zctest.com/contact.html</loc>
+<loc>https://zoe.goclarks.com/contact.html</loc>
 <lastmod>2022-08-24T16:02:14-05:00</lastmod>
 </url>
 <url>
-<loc>https://joshclark.github.io/zctest.com/upcoming-performances.html</loc>
+<loc>https://zoe.goclarks.com/upcoming-performances.html</loc>
 <lastmod>2022-08-24T16:02:43-05:00</lastmod>
 </url>
 </urlset>
